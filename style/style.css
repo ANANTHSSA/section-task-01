@@ -6,7 +6,7 @@
 .section-items{
 	display:flex;
 	padding: 12px 0;
-	justify-content: center;
+	justify-content: space-evenly;
 }
 .section-content1{
 	line-height: 10px;
